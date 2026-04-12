@@ -1,0 +1,10 @@
+{
+  "_comment": "User-defined address database. Add your addresses here.",
+  "_format": "{\"address\": {\"name\": \"Name\", \"category\": \"type\", \"risk\": \"low|high\"}}",
+  
+  "example.eth": {
+    "name": "Example Address",
+    "category": "example",
+    "risk": "low"
+  }
+}
