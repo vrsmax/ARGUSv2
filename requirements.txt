@@ -1,4 +1,8 @@
+# ARGUS — Python dependencies
 requests==2.31.0
 python-dotenv==1.0.0
 colorama==0.4.6
 pyfiglet==1.0.2
+
+# argus_youtube.py + argus_yt_monitor.py
+google-api-python-client==2.111.0
