@@ -1,8 +1,13 @@
 {
-  "_comment": "User-defined address database. Add your addresses here.",
-  "_format": "{\"address\": {\"name\": \"Name\", \"category\": \"type\", \"risk\": \"low|high\"}}",
-  
-  "example.eth": {
+  "_comment": "Пользовательская база адресов. Добавляй свои адреса сюда.",
+  "_format": "{\"address\": {\"name\": \"Название\", \"category\": \"тип\", \"risk\": \"low|high\"}}",
+
+  "3QzYvaRFY6bakFBW4YBRrzmwzTnfZcaA6E": {
+    "name": "ФБК — Фонд борьбы с коррупцией (Навальный)",
+    "category": "ngo",
+    "risk": "low"
+  },
+  "1FundamentalismFxyz": {
     "name": "Example Address",
     "category": "example",
     "risk": "low"
